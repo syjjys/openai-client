@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>winicon.ico</file>
+    </qresource>
+</RCC>
